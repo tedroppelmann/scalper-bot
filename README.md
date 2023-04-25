@@ -1,3 +1,5 @@
+# Scalper bot
+
 To run de simulator (CAPM model):
 
 ```

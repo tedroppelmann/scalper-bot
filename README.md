@@ -1,4 +1,16 @@
-Los datos entregados por kline:
+To run de simulator (CAPM model):
+
+```
+python3 bot.py
+```
+
+After getting the weights for any currency, run the following changing the weights and the initial prices:
+
+```
+python3 simulacion.py
+```
+
+The data given by kline:
 ```
 [
   [
@@ -17,7 +29,3 @@ Los datos entregados por kline:
   ]
 ]
 ```
-
-Retorno portafolio: 0.12601879243914377
-Volatilidad portafolio: 0.12671875228645693
-7 meses de memoria e intervalo de 1 semana

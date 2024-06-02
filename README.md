@@ -1,6 +1,6 @@
 # Scalper bot
 
-To run de simulator (CAPM model):
+To run the simulator ( [CAPM](https://en.wikipedia.org/wiki/Capital_asset_pricing_model) model ):
 
 ```
 python3 bot.py
